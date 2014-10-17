@@ -1,0 +1,5 @@
+All works in this repository is subject to the
+Solderpad License 0.51 or later.
+
+See http://solderpad.org/licenses/SHL-0.51/ for 
+license text.
